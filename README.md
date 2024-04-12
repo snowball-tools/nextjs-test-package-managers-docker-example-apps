@@ -2,7 +2,7 @@
 
 branch: `nextjs-package-manager/yarn`
 
-This repo is for testing building `Next.js` app with different package managers. This branch uses `yarn` as the package manager.
+This repo is for testing building `Next.js` app with different package managers. This branch uses [yarn](https://yarnpkg.com/) as the package manager.
 
 ## Getting Started
 
