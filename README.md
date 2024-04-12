@@ -1,8 +1,8 @@
 # nextjs-package-manager-example-app
 
-branch: `main`
+branch: `nextjs-package-manager/npm`
 
-This repo is for testing building `Next.js` app with different package managers. Each branch can be used to test different package managers.
+This repo is for testing building `Next.js` app with different package managers. This branch uses [npm](https://www.npmjs.com/) as the package manager.
 
 ## Getting Started
 
