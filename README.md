@@ -1,15 +1,15 @@
 # nextjs-package-manager-example-app
 
-branch: `main`
+branch: `nextjs-package-manager/bun`
 
-This repo is for testing building `Next.js` app with different package managers. Each branch can be used to test different package managers.
+This repo is for testing building `Next.js` app with different package managers. This branch uses [bun](https://bun.sh) as the package manager.
 
 ## Getting Started
 
 First, install the dependencies:
 
 ```zsh
-
+bun install
 ```
 
 ## Development
@@ -17,7 +17,7 @@ First, install the dependencies:
 First, run the development server:
 
 ```zsh
-
+bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
@@ -27,5 +27,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 To build the app for production, run:
 
 ```zsh
-
+bun run build
 ```
