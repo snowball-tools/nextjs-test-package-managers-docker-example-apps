@@ -1,7 +1,8 @@
 {
   "name": "nextjs-package-manager-example-app",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.1",
+  "private": false,
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
